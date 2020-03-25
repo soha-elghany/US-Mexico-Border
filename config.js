@@ -14,7 +14,7 @@ var config = {
             title: '',
             image: '',
             class: 'this is my class',
-            description: 'Humans have occupied lands along the border for 10,000 years. In the four U.S. states that surround the border, people speak more than 50 languages.',
+            description: 'Humans have occupied lands along the border for 10,000 years. In the four U.S. states that surround the border, people speak more than 50 languages. Here is apprehensions over time from US Customs and Border Protection, we see a peak in 2019',
             location: {
                 center: [-107.77556, 30.14726],
                 zoom: 4.05,
